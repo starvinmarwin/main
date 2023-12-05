@@ -1,0 +1,3 @@
+[submodule "nftables/nftables"]
+	path = nftables/nftables
+	url = git@github.com:starvinmarwin/nftables.git
